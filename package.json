@@ -1,0 +1,28 @@
+{
+  "name": "vegvisir",
+  "version": "0.0.1",
+  "description": "A Reactive JS Router",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostera/vegvisir.git"
+  },
+  "keywords": [
+    "reactive",
+    "js",
+    "history",
+    "router"
+  ],
+  "author": "Leandro Ostera <leandro@ostera.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostera/vegvisir/issues"
+  },
+  "homepage": "https://github.com/ostera/vegvisir#readme",
+  "dependencies": {
+    "history": "^1.17.0"
+  }
+}
