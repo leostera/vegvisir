@@ -45,7 +45,7 @@
     "most": "^1.0.4",
     "regenerator": "^0.8.46",
     "static-server": "^2.0.3",
-    "uglify-js": "^2.6.4"
+    "uglify-js": "^2.7.5"
   },
   "browserify": {
     "transform": [
