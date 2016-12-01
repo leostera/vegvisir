@@ -42,7 +42,7 @@
     "exorcist": "^0.4.0",
     "flow-bin": "^0.35.0",
     "jest-cli": "^17.0.2",
-    "most": "^1.0.4",
+    "most": "^1.1.1",
     "regenerator": "^0.8.46",
     "static-server": "^2.0.3",
     "uglify-js": "^2.6.4"
